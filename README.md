@@ -1,5 +1,5 @@
 # CTPS
-This repository provides interactive notebooks for a manuscript entitled "Implementing computational thinking in primary and secondary mathematics."
+This repository provides interactive notebooks for a manuscript entitled "Implementing computational thinking in primary and secondary mathematics" by [Hiroyuki Chihara](https://fiomfd.github.io/).
 
 - Julia & Pluto: pluto_CTPS.jl [html](https://fiomfd.github.io/CTPS/pluto_CTPS.html)
 
