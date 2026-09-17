@@ -1,5 +1,5 @@
 # CTPS
-This repository provides interactive notebooks for a paper entitled "Implementing computational thinking in primary and secondary mathematics" by [Hiroyuki Chihara](https://fiomfd.github.io/). These notebooks are designed for standard distribution to schools as part of a public digital infrastructure.
+This repository provides interactive notebooks for a paper entitled "Implementing computational thinking in primary and secondary mathematics" by [Hiroyuki Chihara](https://fiomfd.github.io/).  This paper will be published in [The Mathematician Educator](https://ame.org.sg/online-archive-of-the-mathematician-educator/) in 2026. These notebooks are designed for standard distribution to schools as part of a public digital infrastructure.
 
 - Julia & Pluto: pluto_CTPS.jl
 
@@ -8,4 +8,3 @@ This repository provides interactive notebooks for a paper entitled "Implementin
 - Python & Jupyter Notebook: python_CTPS.ipynb
 
   [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fiomfd/CTPS/)
-
